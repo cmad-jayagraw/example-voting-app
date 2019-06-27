@@ -1,4 +1,4 @@
-FROM jayantagrawal/worker:v1
+FROM jayantagrawal/worker:v3
 
 WORKDIR /app
 
